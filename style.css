@@ -1,0 +1,42 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+}
+
+.heading-1{
+    color: rgb(226, 153, 43);
+    font-size: medium;
+    margin-top: 30px;
+    text-align: right;
+}
+
+.heading-2{
+    color: rgb(197, 41, 62);
+    font-size: larger;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.main{
+    max-width: 80%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: justify;
+    margin-bottom: 25px;
+}
+
+.submit{
+    color: #fffccc;
+    background-color: rgba(110, 0, 0, 0.541);
+}
+
+.personal{
+    background-color: rgb(223, 240, 255);
+    padding: 3px;
+    font-size: large;.
+}
+
+textarea{
+    width: 75%;
+}
